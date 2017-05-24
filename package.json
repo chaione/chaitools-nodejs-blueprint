@@ -1,0 +1,8 @@
+{
+  "name": "chaitools-nodejs-blueprint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:chaione/chaitools-nodejs-blueprint.git",
+  "author": "Yujing Zheng <yujingz@me.com>",
+  "license": "MIT"
+}
