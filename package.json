@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "ChaiOne",
-  "engines": { "node" : "^6.10.3" },
+  "engines": {
+    "node": "^6.10.3"
+  },
   "scripts": {
     "start": "DEBUG=chaione nodemon ./bin/www --exec babel-node",
     "build": "rm -rf ./dist && NODE_ENV=development babel src -d dist --copy-files",
